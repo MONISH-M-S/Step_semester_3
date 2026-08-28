@@ -1,4 +1,4 @@
-package strings_advanced.assigment_problems;
+package string_operations_performance.assigment_problems;
 
 public class LibraryIsbnValidator {
 

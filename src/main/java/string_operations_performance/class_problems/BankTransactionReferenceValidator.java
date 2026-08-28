@@ -1,4 +1,4 @@
-package strings_advanced.class_problems;
+package string_operations_performance.class_problems;
 
 public class BankTransactionReferenceValidator {
 
