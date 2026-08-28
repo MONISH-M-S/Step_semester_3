@@ -1,4 +1,4 @@
-package classes_and_objects.class_problems;
+package oop_classes_and_objects.class_problems;
 
 class PlacementRecord {
     String studentName;

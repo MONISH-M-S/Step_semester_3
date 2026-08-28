@@ -1,4 +1,4 @@
-package classes_and_objects.assigment_problems;
+package oop_classes_and_objects.assigment_problems;
 
 class HallTicket {
     String studentName;
