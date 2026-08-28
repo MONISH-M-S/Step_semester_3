@@ -2,7 +2,7 @@
 
 
 
-Semester 3 — Version Control \& Daily Workflow 
+Semester 3 — Version Control \& Daily Workflow
 
 
 
@@ -16,7 +16,7 @@ Semester 3 — Version Control \& Daily Workflow
 
 \*\*Today's Work:\*\*
 
-\- Completed Session 3 (Topic: Classes and Objects)
+\- Completed Session 3 (Topic: OOP Introduction, Classes and Objects)
 
 &#x20; - Class problems: Placement Record (parallel arrays to class, arrays of objects), Mess Wallet (encapsulation, private fields, validation), Course (constructor overloading, this() chaining), ID Card (reference copies, == vs content equality), Student (instance vs static members)
 
@@ -26,7 +26,7 @@ Semester 3 — Version Control \& Daily Workflow
 
 \*\*Next Session Plan:\*\*
 
-\- Session 4: Constructors and Java Keywords 
+\- Session 4: Constructors and Java Keywords
 
 
 
@@ -46,7 +46,7 @@ Semester 3 — Version Control \& Daily Workflow
 
 \*\*Today's Work:\*\*
 
-\- Completed Session 2 (Topic: Strings Advanced)
+\- Completed Session 2 (Topic: String Operations \& Performance)
 
 &#x20; - Class problems: Vowel \& Consonant Counter, CSV Student Record Parser, File Extension Validator, Masked Phone Number Formatter, Bank Transaction Reference Generator \& Validator
 
@@ -56,7 +56,7 @@ Semester 3 — Version Control \& Daily Workflow
 
 \*\*Next Session Plan:\*\*
 
-\-  Session 3 - Classes and Objects
+\-  Session 3 - OOP Introduction, Classes and Objects
 
 
 
@@ -94,7 +94,7 @@ Semester 3 — Version Control \& Daily Workflow
 
 \*\*Next Session Plan:\*\*
 
-\-  Session 2 - Strings Advanced Concepts
+\-  Session 2 - String Operations \& Performance
 
 
 
