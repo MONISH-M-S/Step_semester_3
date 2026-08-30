@@ -1,4 +1,4 @@
-package session_4.constructors_java_keywords.class_problems;
+package constructors_java_keywords.class_problems;
 
 public class LibraryBookCataloguing {
 

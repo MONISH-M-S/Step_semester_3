@@ -1,4 +1,4 @@
-package session_4.constructors_java_keywords.assigment_problems;
+package constructors_java_keywords.assigment_problems;
 
 public class CanteenInventoryRestock {
 
