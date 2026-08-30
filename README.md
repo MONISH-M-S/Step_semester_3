@@ -10,6 +10,36 @@ Semester 3 — Version Control \& Daily Workflow
 
 
 
+\## Date: 29-08-2026
+
+
+
+\*\*Today's Work:\*\*
+
+\- Completed Session 4 (Topic: Constructors and Java Keywords)
+
+&#x20; - Class problems: Library Book Cataloguing (this() constructor chaining), Payroll Batch Bonus (this keyword field/parameter clash), Late Fees Batch (final methods), College Student Setup (static block), Account Batch Payments (instanceof dispatch)
+
+&#x20; - Assignment problems: Hackathon Registration, Canteen Inventory Restock, Parking Overstay Fine, Library Membership Card Setup, Canteen Payment Dispatch — same concepts, different scenarios
+
+
+
+\*\*Next Session Plan:\*\*
+
+\- Session 5 - Access Modifiers, Encapsulation \& Object Modeling
+
+
+
+\*\*Issues Faced:\*\*
+
+\- None
+
+
+
+\---
+
+
+
 \## Date: 22-08-2026
 
 
