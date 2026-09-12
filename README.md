@@ -4,6 +4,21 @@ Semester 3 — Version Control & Daily Workflow
 
 ---
 
+## Date: 05-09-2026
+
+**Today's Work:**
+- Completed Session 5 (Topic: Access Modifiers, Encapsulation & Object Modeling)
+  - Class problems: Movie Ticket Field Visibility Checker (access modifier rules), Subclass Ticket Access (protected cross-package/subclass rule), Seat Booking Encapsulation Guard (constructor validation, validated methods), MovieBookingProfile JavaBean & OTP Property (getter/setter conventions, write-only property), Immutable Booking Receipt & Nightly Settlement (defensive copying, wither pattern, instanceof dispatch)
+  - Assignment problems: Membership Field Reach Checker, Reference Desk Subclass Reach, Book Copy Circulation Guard, LibraryMember JavaBean & Security Answer Property, Immutable Loan Receipt & Nightly Circulation Ledger — same concepts, different scenarios
+
+**Next Session Plan:**
+- Session 6 - Inheritance and Polymorphism
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 29-08-2026
 
 **Today's Work:**
