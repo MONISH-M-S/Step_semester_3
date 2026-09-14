@@ -4,7 +4,7 @@ Semester 3 — Version Control & Daily Workflow
 
 ---
 
-## Date: 13-09-2026
+## Date: 12-09-2026
 
 **Today's Work:**
 - Completed Session 6 (Topic: Inheritance and Polymorphism)
