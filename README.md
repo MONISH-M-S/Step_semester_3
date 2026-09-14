@@ -12,7 +12,7 @@ Semester 3 — Version Control & Daily Workflow
   - Assignment problems: Gym Membership Foundation & Batch Trial Sign-up Validator, Three Tiers of Gym Membership, The Premium Loyalty Discount & Late-Fee Ledger, The Monthly Attendance Announcer, Membership Numbers, Referral Codes & the Weekly Check-in Settlement — same concepts, different scenarios
 
 **Next Session Plan:**
-- 
+- Session 7
 
 **Issues Faced:**
 - None
