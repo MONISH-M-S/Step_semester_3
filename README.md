@@ -4,6 +4,21 @@ Semester 3 — Version Control & Daily Workflow
 
 ---
 
+## Date: 13-09-2026
+
+**Today's Work:**
+- Completed Session 6 (Topic: Inheritance and Polymorphism)
+  - Class problems: Library Membership Foundation & Batch Enrollment Validator (single inheritance, constructor validation), Three Branches of the Membership Tree (multilevel and hierarchical inheritance, instanceof-based classification), The Student Discount & Fine Ledger (method overriding with super, defensive copying), The Weekly Circulation Report (polymorphic dispatch, instanceof-guarded downcasting), Membership Numbers, Renewal Codes & the Nightly Circulation Audit (static counters, method overloading, instanceof dispatch)
+  - Assignment problems: Gym Membership Foundation & Batch Trial Sign-up Validator, Three Tiers of Gym Membership, The Premium Loyalty Discount & Late-Fee Ledger, The Monthly Attendance Announcer, Membership Numbers, Referral Codes & the Weekly Check-in Settlement — same concepts, different scenarios
+
+**Next Session Plan:**
+- 
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 05-09-2026
 
 **Today's Work:**
