@@ -4,7 +4,22 @@ Semester 3 — Version Control & Daily Workflow
 
 ---
 
-## Date: 12-09-2026
+## Date: 19-09-2026
+
+**Today's Work:**
+- Completed Session 7 (Topic: Abstraction and Interfaces)
+  - Class problems: The Talking Toy Box (abstract class, abstract method, static counter for a final ID field), Warehouse Label Printer (interface implemented by unrelated classes), Orchestra Warm-Up Routine (multilevel hierarchy with abstract base, overriding with super calls), Smart Kitchen Assistant (abstract class combined with an interface, JavaBean property with validation), Package Drop-Off Log (abstract class with an overloaded concrete method built on an abstract one)
+  - Assignment problems: Morning Wake-Up Circuit, Gallery Description Cards, Backyard Toolshed Routine, Digital Classroom Setup, Skyline Delivery Fleet — same concepts, different scenarios
+
+**Next Session Plan:**
+- Session 8 
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 13-09-2026
 
 **Today's Work:**
 - Completed Session 6 (Topic: Inheritance and Polymorphism)
@@ -12,7 +27,7 @@ Semester 3 — Version Control & Daily Workflow
   - Assignment problems: Gym Membership Foundation & Batch Trial Sign-up Validator, Three Tiers of Gym Membership, The Premium Loyalty Discount & Late-Fee Ledger, The Monthly Attendance Announcer, Membership Numbers, Referral Codes & the Weekly Check-in Settlement — same concepts, different scenarios
 
 **Next Session Plan:**
-- Session 7
+- Session 7 - Abstraction and Interfaces
 
 **Issues Faced:**
 - None
