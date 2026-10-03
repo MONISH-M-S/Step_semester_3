@@ -12,7 +12,7 @@ Semester 3 — Version Control & Daily Workflow
   - Assignment problems: The Hostel Laundry Queue, The Assignment Submission Portal, The Campus Premiere Ticket Counter, The FitZone Membership Desk, The Campus Notice Broadcaster — same design concepts, different scenarios
 
 **Next Session Plan:**
-- Await Session 9 topic and problem set
+- Session 9 
 
 **Issues Faced:**
 - None
