@@ -4,6 +4,21 @@ Semester 3 — Version Control & Daily Workflow
 
 ---
 
+## Date: 26-09-2026
+
+**Today's Work:**
+- Completed Session 8 (Topic: Object Class Methods, Inner Classes & UML Diagrams)
+  - Class problems: Vehicle Rental System, Employee Leave Request Workflow, Online Examination System, Hotel Booking System, Payment Processing for a Shopping System — open-ended system design problems applying abstraction, interfaces, encapsulation, and polymorphism
+  - Assignment problems: The Hostel Laundry Queue, The Assignment Submission Portal, The Campus Premiere Ticket Counter, The FitZone Membership Desk, The Campus Notice Broadcaster — same design concepts, different scenarios
+
+**Next Session Plan:**
+- Await Session 9 topic and problem set
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 19-09-2026
 
 **Today's Work:**
@@ -12,7 +27,7 @@ Semester 3 — Version Control & Daily Workflow
   - Assignment problems: Morning Wake-Up Circuit, Gallery Description Cards, Backyard Toolshed Routine, Digital Classroom Setup, Skyline Delivery Fleet — same concepts, different scenarios
 
 **Next Session Plan:**
-- Session 8 
+- Session 8 - Object Class Methods, Inner Classes & UML Diagrams
 
 **Issues Faced:**
 - None
