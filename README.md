@@ -4,6 +4,21 @@ Semester 3 — Version Control & Daily Workflow
 
 ---
 
+## Date: 03-10-2026
+
+**Today's Work:**
+- Completed Session 9 (Topic: Data Structures — Arrays, Hashing, Two Pointers, Sliding Window, Binary Search)
+  - Class problems: Library Catalog Lookup (binary search), Warehouse Grid Summary (2D grid traversal), Pair With Target Sum — brute force and hash-set approaches (compared time/space trade-offs), Maximize Area Between Two Boundaries (two pointers)
+  - Assignment problems: Class Topper Finder, Merging Two Token Queues (two-pointer merge), Most Popular Canteen Order (hashing with tie-break by first occurrence), Hot Weather Alert Windows (sliding window), Ticket Price Slot Finder (binary search insertion point) — same concepts, different scenarios
+
+**Next Session Plan:**
+- Session 10
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 26-09-2026
 
 **Today's Work:**
@@ -12,7 +27,7 @@ Semester 3 — Version Control & Daily Workflow
   - Assignment problems: The Hostel Laundry Queue, The Assignment Submission Portal, The Campus Premiere Ticket Counter, The FitZone Membership Desk, The Campus Notice Broadcaster — same design concepts, different scenarios
 
 **Next Session Plan:**
-- Session 9 
+- Session 9 - Data Structures
 
 **Issues Faced:**
 - None
