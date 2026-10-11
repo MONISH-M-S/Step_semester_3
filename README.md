@@ -3,6 +3,20 @@
 Semester 3 — Version Control & Daily Workflow
 
 ---
+## Date: 10-10-2026
+
+**Today's Work:**
+- Completed Session 10 (Topic: Linked Lists)
+  - Class problems: Bank Account Withdrawal (abstract class, minimum balance and overdraft rules), Campus Vehicle Pass (interface for chargeable vehicles), Student Club Registration (equals/hashCode with HashSet), Class Marks Grid Analysis (2D array totals and averages), Payroll Register (polymorphic payslips)
+  - Assignment problems: Priority Token Insertion (singly linked list insert operations), Cancelled Orders Cleanup (removing all matching nodes), Reverse the Queue (in-place reversal), Train Coaches Both Ways (doubly linked list), Round-Robin Game Turns (circular linked list)
+
+**Next Session Plan:**
+- Session 11 
+
+**Issues Faced:**
+- None
+
+---
 
 ## Date: 03-10-2026
 
@@ -12,7 +26,7 @@ Semester 3 — Version Control & Daily Workflow
   - Assignment problems: Class Topper Finder, Merging Two Token Queues (two-pointer merge), Most Popular Canteen Order (hashing with tie-break by first occurrence), Hot Weather Alert Windows (sliding window), Ticket Price Slot Finder (binary search insertion point) — same concepts, different scenarios
 
 **Next Session Plan:**
-- Session 10
+- Session 10 - Linked Lists
 
 **Issues Faced:**
 - None
